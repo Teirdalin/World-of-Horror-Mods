@@ -3,7 +3,7 @@ name="Forest Hangings"
 location="forest"
 about="Teir - The Happening based Forest Hanging."
 author="Teirdalin"
-contact="@Teirdalin  "
+contact="@Teirdalin"
 
 flavor="Following down the road you suddenly spot numerous people hanging from trees.  #It appears like a mass suicide, but you feel like something is in the air..."
 image="Teirdalin\ForestHanging.png"
@@ -57,5 +57,3 @@ extra_failprizec=" "
 extra_failnumberc=" "
 faileffectc=" "
 
-
---Made with WOHMaker 1.5d --=

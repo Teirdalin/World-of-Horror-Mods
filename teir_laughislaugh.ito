@@ -3,7 +3,7 @@ name="Laugh Is Fun"
 location="apartment"
 about="Teir - SCP 2030 - Laugh Is Fun"
 author="Teirdalin"
-contact="Teirdalin  "
+contact="@Teirdalin"
 
 flavor="You find a strange VHS tape in your apartment labled 'Laugh Is Fun'.#You're unsure what to make of it."
 image="Teirdalin\LaughIsFun.png"
@@ -46,7 +46,3 @@ failnumberb="-2"
 extra_failprizeb=" "
 extra_failnumberb=" "
 faileffectb=" "
-
- 
-
---Made with WOHMaker 1.5d --=

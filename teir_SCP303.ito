@@ -3,7 +3,7 @@ name="Strange Wheezing"
 location="apartment"
 about="Teir - SCP 303: Doorman"
 author="Teirdalin"
-contact="Teirdalin  "
+contact="@Teirdalin"
 
 flavor="You hear a loud wheezing behind your door.,#You feel like you know what is on the other side of the door, but you cannot quite figure out why.. "
 image="Teirdalin\303.png"
@@ -50,6 +50,3 @@ failnumberc="-3"
 extra_failprizec=" "
 extra_failnumberc=" "
 faileffectc=" "
-
-
---Made with WOHMaker 1.5d --=
