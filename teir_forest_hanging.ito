@@ -1,0 +1,61 @@
+[event]
+name="Forest Hangings"
+location="forest"
+about="Teir - The Happening based Forest Hanging."
+author="Teirdalin"
+contact="@Teirdalin  "
+
+flavor="Following down the road you suddenly spot numerous people hanging from trees.  #It appears like a mass suicide, but you feel like something is in the air..."
+image="Teirdalin\ForestHanging.png"
+big="1"
+wavy_art="1"
+wavy_speed="0.2"
+options="3"
+
+
+optiona="Investigate"
+testa="perception"
+
+successa="You notice someone in the distance cutting their own wrists and bleeding out seemingly in a daze.  You decide it's probably best not to stick around any longer.."
+winprizea="experience"
+winnumbera="10"
+extra_winprizea=" "
+extra_winnumbera=" "
+wineffecta=" "
+failurea="You feel the urge to hurt yourself, taking a piece of broken bottle on the ground and scraping it along your wrist before forcing yourself out of there."
+failprizea="stamina"
+failnumbera="-4"
+extra_failprizea="reason"
+extra_failnumbera="-2"
+faileffecta="bloodsplat"
+
+
+optionb="Leave Immediately"
+testb="story"
+
+successb="You quickly find another route, trying to forget what you've seen in the forest."
+winprizeb="reason"
+winnumberb="-2"
+extra_winprizeb=" "
+extra_winnumberb=" "
+wineffectb=" "
+
+optionc="Call The Police"
+testc="luck"
+
+successc="The police arrive and you are asked to leave the area as they begin to take down the bodies.#You're not quite sure what happened here but are relieved that the bodies will be returned to their families."
+winprizec="doom"
+winnumberc="-4"
+extra_winprizec="experience"
+extra_winnumberc="8"
+wineffectc=" "
+
+failurec="The police men arrive on scene and the ones which approach the bodies take out their pistols and shoot themselves.  You are told to leave the area."
+failprizec="reason"
+failnumberc="-4"
+extra_failprizec=" "
+extra_failnumberc=" "
+faileffectc=" "
+
+
+--Made with WOHMaker 1.5d --=

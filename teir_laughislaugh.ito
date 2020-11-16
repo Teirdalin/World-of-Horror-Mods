@@ -1,0 +1,52 @@
+[event]
+name="Laugh Is Fun"
+location="apartment"
+about="Teir - SCP 2030 - Laugh Is Fun"
+author="Teirdalin"
+contact="Teirdalin  "
+
+flavor="You find a strange VHS tape in your apartment labled 'Laugh Is Fun'.#You're unsure what to make of it."
+image="Teirdalin\LaughIsFun.png"
+big="0"
+wavy_art="0"
+wavy_speed="0.2"
+options="2"
+
+
+optiona="Play It"
+testa="perception"
+
+successa="The tape depicts people on a gameshow being brutalized, and pretending that nothing strange is going on; and things which should not be physically possible happening.#The details are too much to have been faked just as a prank video, you know that this is real.#"Created in partnership with YWTGTHFT""
+winprizea="reason"
+winnumbera="-4"
+extra_winprizea="doom"
+extra_winnumbera="2"
+wineffecta=" "
+failurea="The tape depicts people on a gameshow being brutalized, and pretending that nothing strange is going on; and things which should not be physically possible happening.#You're unsure if this is real or not, but it left you shaken either way.#"Created in partnership with YWTGTHFT""
+failprizea="reason"
+failnumbera="-2"
+extra_failprizea=" "
+extra_failnumbera=" "
+faileffecta=" "
+
+
+optionb="Ignore It"
+testb="knowledge"
+
+successb="You know better than to watch strange VHS tapes, and decide against it."
+winprizeb="experience"
+winnumberb="10"
+extra_winprizeb=" "
+extra_winnumberb=" "
+wineffectb=" "
+
+failureb="You feel like you're starting to go mad, being afraid of watching a VHS tape just out of fear of what may be on it.  You toss the thing in the trash."
+failprizeb="reason"
+failnumberb="-2"
+extra_failprizeb=" "
+extra_failnumberb=" "
+faileffectb=" "
+
+ 
+
+--Made with WOHMaker 1.5d --=

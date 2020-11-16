@@ -1,0 +1,55 @@
+[event]
+name="Strange Wheezing"
+location="apartment"
+about="Teir - SCP 303: Doorman"
+author="Teirdalin"
+contact="Teirdalin  "
+
+flavor="You hear a loud wheezing behind your door.,#You feel like you know what is on the other side of the door, but you cannot quite figure out why.. "
+image="Teirdalin\303.png"
+big="0"
+wavy_art="1"
+wavy_speed="0.5"
+options="3"
+
+
+optiona="Open The Door"
+testa="story"
+
+successa="You reach for the handle, and your body is overtaken by an unnatural fear the likes of which you've never experienced.  You cannot move, you can only listen to the heavy breathing from whoever is on the other side of the door.. #Eventually it wears off, and there is nothing there.."
+winprizea="reason"
+winnumbera="-4"
+extra_winprizea="stamina"
+extra_winnumbera="-2"
+wineffecta="whiteflash"
+ 
+
+optionb="Ignore It"
+testb="story"
+
+successb="You try your best to ignore it, but you know in your mind what is awaiting you on the other side of your door, and it frightens you to your core."
+winprizeb="reason"
+winnumberb="-2"
+extra_winprizeb=" "
+extra_winnumberb=" "
+wineffectb=" "
+
+optionc="Hide"
+testc="luck"
+
+successc="You hide behind your desk, and try to remain as quiet as possible..  You find an old flashlight on the ground you forgot was here.   After a while you come out of hiding and the breathing at the door is gone."
+winprizec="item"
+winnumberc="FLASHLIGHT"
+extra_winprizec="reason"
+extra_winnumberc="-1"
+wineffectc=" "
+
+failurec="You decide to hide in your closet, closing the closet doors behind you. You then begin to hear it from the other side of the closet door. You're paralyzed with fear, and have no choice but to sit in your closet waiting. Eventually it's silent, opening the door, you see that there was nothing there.."
+failprizec="reason"
+failnumberc="-3"
+extra_failprizec=" "
+extra_failnumberc=" "
+faileffectc=" "
+
+
+--Made with WOHMaker 1.5d --=
